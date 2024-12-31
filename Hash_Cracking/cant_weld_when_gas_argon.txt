@@ -4,5 +4,5 @@
 	python crack_argon2.py -c '$argon2id$v=19$m=19,t=2,p=1$TXI0bFBNcUlFaVV2bUw1OA$iSk840x8+46u+ljfUgV9BQ' -w ../../ctf_chall_15/cheat_wordlist.txt
 4. Flag:   Ugh...Argh... French..._Sony Ericsson W610i_Doctor Purnell_The Black Day_Sawrunner_Saxon Avenue_Team Psykskallar_Drowned
 
-EDIT: Turns out that manually finding interesting phrases is NOT the only way :D Good job to Jakob for solving the challenge by essentially creating a crawler which extracts phrases based on some regex.<br>
-EDIT again: Made my own crawler and scraper which extracts 1,2,3,4-word phrases from the wiki: <https://github.com/Jonnen98cool/webcrawler_phrases_extractor>
+EDIT: Turns out that manually finding interesting phrases is NOT the only way :D Good job to Jakob for solving the challenge by essentially creating a crawler which extracts phrases based on some regex.
+EDIT again: Made my own crawler and scraper which extracts 1,2,3,4-word phrases from the wiki: https://github.com/Jonnen98cool/webcrawler_phrases_extractor
